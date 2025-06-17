@@ -1,4 +1,4 @@
-# Ethan's AI & ML Portfolio
+# Ethan's AI/ML Portfolio
 
 Welcome! I'm a high school senior with a passion for Artificial Intelligence, machine learning, and solving real-world problems through code.
 
