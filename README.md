@@ -2,7 +2,7 @@
 
 Welcome! I'm a high school senior with a passion for Artificial Intelligence, machine learning, and solving real-world problems through code.
 
-This portfolio showcases the projects I’ve built independently using Python, ML libraries, and public datasets. It’s a reflection of my curiosity, technical growth, and drive to become an AI/ML Engineer.
+This portfolio showcases the projects I’ve built independently in my junior year using Python, ML libraries, and public datasets. It’s a reflection of my curiosity, technical growth, and drive to become an AI/ML Engineer.
 
 ## Featured Projects
 
