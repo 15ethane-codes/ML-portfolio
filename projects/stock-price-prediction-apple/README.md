@@ -27,7 +27,7 @@ This project forecasts Apple's stock price using deep learning models (LSTM), tr
 ## Tech Stack
 
 - Python, TensorFlow/Keras, NumPy, pandas, yfinance, matplotlib
-- Jupyter Notebook
+- Jupyter Notebook (swtiched to Google Colab)
 
 ## Results
 
