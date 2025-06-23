@@ -1,5 +1,3 @@
-# Oxford Pet Classification
-
 # Oxford-IIIT Pet Classification
 
 This project uses a transfer learning approach to classify cat and dog breeds from the Oxford-IIIT Pet Dataset. It applies MobileNetV2 as a feature extractor and achieves high performance using TensorFlow and `tf.data`.
