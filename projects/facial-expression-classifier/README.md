@@ -39,10 +39,8 @@ This project classifies human facial expressions using the FER-2013 dataset. It 
 
 | Model         | Train Accuracy | Test Accuracy |
 |---------------|----------------|---------------|
-| CNN           | ~TBD%           | ~TBD%          |
-| MobileNetV2   | ~TBD%           | ~TBD%          |
-
-*(Replace with actual accuracy values)*
+| CNN           | ~36.11%           | ~36.10%          |
+| MobileNetV2   | ~76.97%           | ~64.21%          |
 
 ## Future Improvements
 
