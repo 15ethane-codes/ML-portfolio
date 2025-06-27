@@ -15,7 +15,6 @@ Through training, the generator learns to create increasingly realistic faces th
 - **Image Normalization** — all images are normalized to `[-1, 1]` to match the `tanh` output of the generator.
 - **DCGAN Architecture** — uses `ConvTranspose2D` in the generator and `Conv2D` in the discriminator, with BatchNorm and LeakyReLU.
 
-
 ## Dataset
 - **Source**: [CelebA Faces](https://www.kaggle.com/datasets/jessicali9530/celeba-dataset)
 - **Contents**: Over 200,000 celebrity images of size `218x178`, aligned and cropped.
@@ -47,7 +46,7 @@ Through training, the generator learns to create increasingly realistic faces th
 ## Sample Outputs
 Images are generated after every epoch using a fixed noise vector (`z`). As training progresses, the images become more realistic. Example output: (6th epoch)
 
-
+![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/main/Screenshot%20(2).jpg?raw=true)
 
 ## Improvements
 
