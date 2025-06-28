@@ -35,7 +35,7 @@ Evaluates performance on test images:
 - Final accuracy printed
 - Overall precision/recall not shown but can be added with `classification_report`
 
-## Upload & Predict
+## Upload & Predict (Prediction in colab file is a different test)
 
 
 
