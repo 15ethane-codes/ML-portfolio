@@ -37,7 +37,7 @@ Evaluates performance on test images:
 
 ## Upload & Predict (Prediction in colab file is a different test)
 
-
+![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/7ed34c6da03b5a6efe22f43e7a67c28823eeac1b/projects/pneumonia-xray-classifier/Screenshot%20(4).jpg)
 
 ## Visualization
 - Uses `matplotlib` to render the uploaded X-ray image.
