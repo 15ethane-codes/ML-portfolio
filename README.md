@@ -18,6 +18,6 @@ This portfolio showcases the projects I’ve built independently in my junior ye
 | Oxford Pet Classifier            | Image Classification | Identifies dog and cat breeds using CNNs |
 | Pneumonia X-ray Detector         | CNN, Medical Imaging | Detects pneumonia from chest X-ray images |
 | Text-to-Speech Translation               | NLP, Audio Generation| Converts written text into spoken audio using TTS models |
-| Small Mood Song Recommender               | TBD| TBD |
+| Small Mood Song Recommender               | Transformers, Gradio, Music| Recommends 5 Spotify Songs based on mood using a transformer and Gradio |
 
 More coming soon!
