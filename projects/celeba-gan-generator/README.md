@@ -46,7 +46,7 @@ Through training, the generator learns to create increasingly realistic faces th
 ## Sample Outputs
 Images are generated after every epoch using a fixed noise vector (`z`). As training progresses, the images become more realistic. Example output: (6th epoch)
 
-![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/main/Screenshot%20(2).jpg?raw=true)
+![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/5abeb66a1911c9d27947880df7c39492b36a4c29/Screenshot%20(3).png)
 
 ## Improvements
 
