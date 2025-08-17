@@ -62,7 +62,5 @@ Evaluates performance on test images:
 | Model          | ResNet18 (pretrained)      |
 | Classes        | NORMAL, PNEUMONIA          |
 | Input Size     | 224x224                    |
-| Accuracy       | ~XX% (depends on run)   |
+| Accuracy       | ~71.29% (depends on run)   |
 | Dataset Size   | ~5k+ X-ray images          |
-
-...In progress
