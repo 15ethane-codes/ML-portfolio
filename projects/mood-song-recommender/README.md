@@ -35,7 +35,7 @@ A machine learning project that recommends songs based on user emotions. Users t
 | Love      | “I feel affectionate and want romantic music.” | “All of Me - John Legend”, …     |
 
 
-![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/7ed34c6da03b5a6efe22f43e7a67c28823eeac1b/projects/pneumonia-xray-classifier/Screenshot%20(6).jpg)
+![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/761997f7fe6131d1827edc932b9f87fc11f155a6/Screenshot%20(6).png)
 ---
 
 ## Future Improvements
