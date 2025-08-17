@@ -36,6 +36,8 @@ A machine learning project that recommends songs based on user emotions. Users t
 
 
 ![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/761997f7fe6131d1827edc932b9f87fc11f155a6/Screenshot%20(6).png)
+
+![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/761997f7fe6131d1827edc932b9f87fc11f155a6/Screenshot%20(7).png)
 ---
 
 ## Future Improvements
