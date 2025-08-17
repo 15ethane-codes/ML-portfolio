@@ -34,6 +34,13 @@ A machine learning project that recommends songs based on user emotions. Users t
 | Surprise  | “I’m amazed and want something exciting.”  | “A Sky Full of Stars - Coldplay”, …|
 | Love      | “I feel affectionate and want romantic music.” | “All of Me - John Legend”, …     |
 
+
+![image_alt](https://github.com/15ethane-codes/ML-portfolio/blob/7ed34c6da03b5a6efe22f43e7a67c28823eeac1b/projects/pneumonia-xray-classifier/Screenshot%20(6).jpg)
 ---
 
+## Future Improvements
 
+- Add more emotions or mood subcategories.
+- Integrate Spotify API for real time streaming.
+- Include Grad-CAM or attention visualizaitons on input text
+- Build a web app interface for easier interaction
